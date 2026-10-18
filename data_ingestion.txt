@@ -3,8 +3,12 @@ hey master is here on the main branch
 hey this is the buggain branch commit
 this is a commit from main branch for rebase
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 This is the commit made by the adit for stashing
+=======
+This is the change that will be stached
+>>>>>>> Stashed changes
 =======
 This is the change that will be stached
 >>>>>>> Stashed changes
